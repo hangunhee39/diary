@@ -199,6 +199,7 @@ public class MainActivity extends AppCompatActivity implements OnTabItemSelected
                 getCurrentLocation();
             }
         }
+        //test
     }
 
     public void getCurrentLocation(){
